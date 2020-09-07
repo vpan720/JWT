@@ -1,0 +1,2 @@
+D:\Curbside Res\jwt\Source\NET\obj\Debug\jwt.csprojAssemblyReference.cache
+D:\Curbside Res\jwt\Source\NET\obj\Debug\jwt.csproj.CoreCompileInputs.cache

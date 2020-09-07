@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutSystems.Nssjwt</name>
+    </assembly>
+    <members>
+        <member name="M:OutSystems.Nssjwt.Cssjwt.MssReadToken(System.String,System.String@,System.String@)">
+            <summary>
+            
+            </summary>
+            <param name="ssJWT_Token"></param>
+            <param name="ssPaymentId"></param>
+            <param name="ssOrderId"></param>
+        </member>
+        <member name="M:OutSystems.Nssjwt.Issjwt.MssReadToken(System.String,System.String@,System.String@)">
+            <summary>
+            
+            </summary>
+            <param name="ssJWT_Token"></param>
+            <param name="ssPaymentId"></param>
+            <param name="ssOrderId"></param>
+        </member>
+    </members>
+</doc>

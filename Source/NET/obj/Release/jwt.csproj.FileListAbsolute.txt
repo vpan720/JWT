@@ -1,0 +1,7 @@
+D:\Curbside Res\jwt\Source\NET\bin\OutSystems.Nssjwt.dll
+D:\Curbside Res\jwt\Source\NET\bin\OutSystems.Nssjwt.xml
+D:\Curbside Res\jwt\Source\NET\bin\Newtonsoft.Json.dll
+D:\Curbside Res\jwt\Source\NET\obj\Release\jwt.csprojAssemblyReference.cache
+D:\Curbside Res\jwt\Source\NET\obj\Release\jwt.csproj.CoreCompileInputs.cache
+D:\Curbside Res\jwt\Source\NET\obj\Release\jwt.csproj.CopyComplete
+D:\Curbside Res\jwt\Source\NET\obj\Release\OutSystems.Nssjwt.dll
